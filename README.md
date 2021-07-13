@@ -14,14 +14,14 @@ https://sourceforge.net/projects/valhalahoneypot/files/valhalahoneypot/valhala18
 Test ftp honey service
 ======
 open up command prompt
-> telnet 127.0.0.1 21
-> user user
-> pass user
+- telnet 127.0.0.1 21
+- user user
+- pass user
 
 
 Test pop3 honey service
 ======
 open up command prompt
-> telnet 127.0.0.1 110
-> user user
-> pass user
+- telnet 127.0.0.1 110
+- user user
+- pass user
