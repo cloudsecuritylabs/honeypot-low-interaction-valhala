@@ -15,13 +15,13 @@ Test ftp honey service
 ======
 open up command prompt
 - telnet 127.0.0.1 21
-- user user
-- pass user
+- USER user
+- PASS user
 
 
 Test pop3 honey service
 ======
 open up command prompt
 - telnet 127.0.0.1 110
-- user user
-- pass user
+- USER user
+- PASS user
