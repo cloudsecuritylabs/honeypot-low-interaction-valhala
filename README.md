@@ -1,5 +1,5 @@
 # honeypot-low-interaction-valhala
-download valhala-180 english verison
+download valhala-180 English version 
 https://sourceforge.net/projects/valhalahoneypot/files/valhalahoneypot/valhala180/
 
 1. extract file
